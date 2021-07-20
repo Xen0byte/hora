@@ -4,7 +4,7 @@
 
 # Hora
 
-**[[Homepage](http://horasearch.com/)]** **[[Document](https://horasearch.com/doc)]** **[[Examples](https://horasearch.com/doc/example.html)]**
+**[[Homepage](https://horasearch.com/)]** **[[Document](https://horasearch.com/doc)]** **[[Examples](https://horasearch.com/doc/example.html)]**
 
 ***Hora Search Everywhere!***
 
